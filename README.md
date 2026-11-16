@@ -1,7 +1,7 @@
 <div align="center">
 
 
-#Theta · Machine Learning Videos
+# Theta · Machine Learning Videos
 
 
 **Visual explanations of machine learning, math, and AI.**
