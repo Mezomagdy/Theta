@@ -26,10 +26,6 @@ This repository collects the source code and narration scripts behind the educat
 - [Manim Community Edition](https://www.manim.community/)
 - [NumPy](https://numpy.org/)
 
-## Add a new video
-
-Create a numbered folder under `videos/`, for example `videos/002-your-topic/`. Put Manim scenes in `src/`, narration and notes in `scripts/`, and add a row with the YouTube link and thumbnail to the table above.
-
 ## Credits and license
 
 Music and other third-party assets are credited in the README for the video that uses them. No open-source license has been selected yet, so the code remains under the author's default copyright.
