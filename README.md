@@ -14,7 +14,7 @@
 
 | # | Topic | Watch | Source |
 |---|---|---|---|
-| 01 | **L1 vs. L2 Regularization**<br>How the two penalties affect neural-network weights | [![Watch L1 vs. L2 Regularization](https://img.youtube.com/vi/ErA7QN2pys4/hqdefault.jpg)](https://youtu.be/ErA7QN2pys4) | [Code and narration](videos/001-l1-vs-l2-regularization/) |
+| 01 | **L1 vs. L2 Regularization**<br>How the two penalties affect neural-network weights | [![Watch L1 vs. L2 Regularization](https://img.youtube.com/vi/ErA7QN2pys4/hqdefault.jpg)](https://youtu.be/ErA7QN2pys4) | [Code and narration](videos/001-l1-vs-l2-regularization/README.md) |
 
 ## About this repository
 
@@ -28,8 +28,8 @@ This repository collects the source code and narration scripts behind the educat
 
 ## Add a new video
 
-Create a numbered folder under videos/, for example videos/002-your-topic/. Put Manim scenes in src/, narration and notes in scripts/, and add a row with the YouTube link and thumbnail to the table above.
+Create a numbered folder under `videos/`, for example `videos/002-your-topic/`. Put Manim scenes in `src/`, narration and notes in `scripts/`, and add a row with the YouTube link and thumbnail to the table above.
 
-## Credits
+## Credits and license
 
-Music and other third-party assets are credited in the README for the video that uses them. No open-source license has been selected yet; until one is added, the code remains under the author default copyright.
+Music and other third-party assets are credited in the README for the video that uses them. No open-source license has been selected yet, so the code remains under the author's default copyright.
