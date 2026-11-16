@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Manim renders and LaTeX cache
+media/videos/
+media/Tex/
+media/texts/
+tex_cache/
+*.log
+*.aux
+*.dvi
+*.xdv
+
+# Premiere projects, previews, and autosaves
+*.prproj
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Auto-Save/
+Adobe Premiere Pro Captured Audio/
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+
